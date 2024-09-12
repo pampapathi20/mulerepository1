@@ -40,7 +40,7 @@ https://anypoint.mulesoft.com</uri>
 	<region>us-east-1</region>
 <workers>1</workers>
 <workerType>Micro</workerType>
-<applicationName>cicddemo</applicationName>
+<applicationName>cicddemo1234</applicationName>
 <objectStoreV2>true</objectStoreV2>
 </cloudHubDeployment>
 </configuration>
